@@ -130,6 +130,11 @@
     "rss": "https://confusion.codeberg.page/rss.xml"
   },
   {
+    "url": "https://www.cozynet.org",
+    "thumb": "cozynetorg.gif",
+    "rss": ""
+  },
+  {
     "url": "https://crusades.neocities.org",
     "thumb": "crusadesneocitiesorg.png",
     "rss": ""
@@ -185,8 +190,18 @@
     "rss": ""
   },
   {
+    "url": "https://www.davidgebski.nl",
+    "thumb": "davidgebskinl.png",
+    "rss": ""
+  },
+  {
     "url": "https://deadendshrine.online",
     "thumb": "deadendshrineonline.png",
+    "rss": ""
+  },
+  {
+    "url": "https://www.deletia.digital",
+    "thumb": "deletiadigital.gif",
     "rss": ""
   },
   {
@@ -302,6 +317,11 @@
   {
     "url": "https://godcock.neocities.org",
     "thumb": "godcockneocitiesorg.jpg",
+    "rss": ""
+  },
+  {
+    "url": "https://www.goodboyjojo.com",
+    "thumb": "goodboyjojocom.gif",
     "rss": ""
   },
   {
@@ -530,6 +550,11 @@
     "rss": ""
   },
   {
+    "url": "https://www.neetventures.com",
+    "thumb": "neetventurescom.gif",
+    "rss": ""
+  },
+  {
     "url": "https://nerdbox.neocities.org/",
     "thumb": "nerdboxneocitiesorg.png",
     "rss": ""
@@ -652,6 +677,11 @@
   {
     "url": "https://room4.neocities.org",
     "thumb": "room4neocitiesorg.jpg",
+    "rss": ""
+  },
+  {
+    "url": "https://www.s-config.com",
+    "thumb": "sconfigcom.png",
     "rss": ""
   },
   {
@@ -782,7 +812,7 @@
   {
     "url": "https://tohya.net",
     "thumb": "tohyanet.png",
-    "rss": ""
+    "rss": "https://tohya.net/feed.rss"
   },
   {
     "url": "https://torchan.neocities.org/",
@@ -808,6 +838,11 @@
     "url": "https://ty3r0x.chaox.ro",
     "thumb": "ty3r0xchaoxro.png",
     "rss": "https://ty3r0x.chaox.ro/blog/atom.xml"
+  },
+  {
+    "url": "https://www.tyxton.net",
+    "thumb": "tyxtonnet.png",
+    "rss": ""
   },
   {
     "url": "https://unix.tirol/",
@@ -890,56 +925,6 @@
     "rss": ""
   },
   {
-    "url": "https://www.cozynet.org",
-    "thumb": "cozynetorg.gif",
-    "rss": ""
-  },
-  {
-    "url": "https://www.davidgebski.nl",
-    "thumb": "davidgebskinl.png",
-    "rss": ""
-  },
-  {
-    "url": "https://www.deletia.digital",
-    "thumb": "deletiadigital.gif",
-    "rss": ""
-  },
-  {
-    "url": "https://www.digitalvoid.xyz",
-    "thumb": "digitalvoidxyz.png",
-    "rss": ""
-  },
-  {
-    "url": "https://www.goodboyjojo.com",
-    "thumb": "goodboyjojocom.gif",
-    "rss": ""
-  },
-  {
-    "url": "https://www.neetventures.com",
-    "thumb": "neetventurescom.gif",
-    "rss": ""
-  },
-  {
-    "url": "https://www.s-config.com",
-    "thumb": "sconfigcom.png",
-    "rss": ""
-  },
-  {
-    "url": "https://www.tohya.net/",
-    "thumb": "tohyanet.png",
-    "rss": "https://tohya.net/feed.rss"
-  },
-  {
-    "url": "https://www.tyxton.net",
-    "thumb": "tyxtonnet.png",
-    "rss": ""
-  },
-  {
-    "url": "https://www.yo252yo.com/",
-    "thumb": "yo252yocom.gif",
-    "rss": ""
-  },
-  {
     "url": "https://xenobyte.xyz",
     "thumb": "xenobytexyz.jpg",
     "rss": ""
@@ -958,6 +943,11 @@
     "url": "https://xn--z7x.xn--6frz82g",
     "thumb": "xnz7xxn6frz82g.gif",
     "rss": "https://xn--z7x.xn--6frz82g/blog/rss/"
+  },
+  {
+    "url": "https://www.yo252yo.com/",
+    "thumb": "yo252yocom.gif",
+    "rss": ""
   },
   {
     "url": "https://yo252yo.wordpress.com",
